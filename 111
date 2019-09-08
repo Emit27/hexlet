@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="header">
+        <h1>Алексей Примадонин</h1>
+        <h3>web разработчик</h3>
+        <p><a href="mailto:ap@somemail.com">ap@somemail.com</a>,
+            <a href="https://github.com/alprima">github.com/alprima</a>
+        </p>
+
+    </div>
+    <div id="main">
+        <p>Я увлекаюсь веб-дизайном со старших классов школы.Начал с мини-сайтов для
+            себя и друзей, потом<br> для местных фирм и организаций.После курсов в Хексленте начал
+            работу веб-разработчиком.Пишу <br>на JS(ES6), люблю функциональное программирование.
+            У мею работать с SQL,HTTP, Git и Ansible.<br>
+            Пишу тесты.
+        </p>
+        <p>Готов к удаленной работе и релокации.</p>
+        <h2>ОПЫТ РАБОТЫ</h2>
+        <hr style="border: 1px solid Gray;">
+        <h3>Майкрософт Россия</h3>
+        <p>Программист(стажировка),апрель 2016—ноябрь 2016</p>
+        <ul>
+            <li>Работа в команде на С#</li>
+            <li>Создания веб-сайта проекта JDX</li>
+        </ul>
+        <h3>ТОО «Винная баня»</h3>
+        <p>Веб дизайн,январь 2015-апрель 2016</p>
+        <ul class="inden">
+            <li>Верстка макетов</li>
+            <li>Разработка тем для Wordpress</li>
+            <li>Поддержка сайта</li>
+        </ul>
+        <h2>Образование</h2>
+        <hr style="border: 1px solid Gray;">
+        <h3>Университет им. Патриса Лумумбы </h3>
+        <p>Бакалавр информационных систем 2012—2016</p>
+        <h3>Хекслет</h3>
+        <p>Курсы по программированию, JS Backend/Fronted, 2015—2017 </p>
+        <h2>Другие навыки и увлечения</h2>
+        <hr style="border: 1px solid Gray;">
+        <ul class="inden">
+            <li>Основы дизайна и типографики</li>
+            <li>Любительская игра на гитаре</li>
+            <li>Хоккей на траве(городская лига)</li>
+        </ul>
+    </div>
+    <div id="footer">
+        <h3>Алексей Примадонин</h3>
+        ул.Полевая, 12,Астрахань,Россия +78881270001,
+        <a href="mailto:ap@somemail.com">ap@somemail.com</a>
+    </div>
+</body>
+
+</html>
