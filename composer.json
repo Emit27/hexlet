@@ -1,0 +1,7 @@
+{
+    "name": "vacum/dert",
+	"description": "example package",
+    "require": {
+        "zendframework/zend-diactoros": "^2.1"
+    }
+}
